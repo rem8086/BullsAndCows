@@ -1,0 +1,6 @@
+c:\users\suvorov.s\documents\visual studio 2013\Projects\BullsAndCowsChecker\BullsAndCowsChecker\bin\Debug\BullsAndCowsChecker.exe.config
+c:\users\suvorov.s\documents\visual studio 2013\Projects\BullsAndCowsChecker\BullsAndCowsChecker\bin\Debug\BullsAndCowsChecker.exe
+c:\users\suvorov.s\documents\visual studio 2013\Projects\BullsAndCowsChecker\BullsAndCowsChecker\bin\Debug\BullsAndCowsChecker.pdb
+c:\users\suvorov.s\documents\visual studio 2013\Projects\BullsAndCowsChecker\BullsAndCowsChecker\obj\Debug\BullsAndCowsChecker.csprojResolveAssemblyReference.cache
+c:\users\suvorov.s\documents\visual studio 2013\Projects\BullsAndCowsChecker\BullsAndCowsChecker\obj\Debug\BullsAndCowsChecker.exe
+c:\users\suvorov.s\documents\visual studio 2013\Projects\BullsAndCowsChecker\BullsAndCowsChecker\obj\Debug\BullsAndCowsChecker.pdb
